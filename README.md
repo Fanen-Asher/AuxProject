@@ -1,0 +1,2 @@
+# AuxProject
+Bash Scripting Automation
