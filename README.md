@@ -1,2 +1,2 @@
 # AuxProject
-Bash Scripting Automation
+Bash Scripting Automation for automatic addition of new users on Linux
